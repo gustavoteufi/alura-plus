@@ -5,7 +5,7 @@
 
 Desenvolvido durante a formação de HTML e CSS da plataforma Alura. Durante esse projeto, foi abordado propriedades de CSS, como Grid e Flexbox, noções de espaçamento e outros fundamentos, como as pseudoclasses do CSS.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://gustavoteufi.github.io/alura-plus/)
 
 
 ## 🛠 Tecnologias
